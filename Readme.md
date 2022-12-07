@@ -7,7 +7,7 @@
 | __Day 1: Calorie Counting__ | ✅ | ✅ |
 | __Day 2: Rock Paper Scissors__ | ✅ | ✅ |
 | __Day 3: Rucksack Reorganization__ | ✅ | ✅ |
-| __Day 4: Camp Cleanup__ | ✅ |  |
+| __Day 4: Camp Cleanup__ | ✅ | ✅ |
 | __Day 5: Supply Stacks__ | ✅ | ✅ |
 | __Day 6: Tuning Trouble__ | ✅ | ✅ |
 | __Day 7: No Space Left On Device__ |  |  |
