@@ -1,6 +1,6 @@
 ### Advent of code 2022
 
-#### Total stars collected: 11 ⭐️
+#### Total stars collected: 12 ⭐️
 
 | Missions | Part 1 | Part 2 |
 | --- | :---: | :---: |
