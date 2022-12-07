@@ -1,6 +1,6 @@
 ### Advent of code 2022
 
-#### Total stars collected: 9 ⭐️
+#### Total stars collected: 11 ⭐️
 
 | Missions | Part 1 | Part 2 |
 | --- | :---: | :---: |
@@ -9,7 +9,7 @@
 | __Day 3: Rucksack Reorganization__ | ✅ | ✅ |
 | __Day 4: Camp Cleanup__ | ✅ |  |
 | __Day 5: Supply Stacks__ | ✅ | ✅ |
-| __Day 6: Tuning Trouble__ |  |  |
+| __Day 6: Tuning Trouble__ | ✅ | ✅ |
 | __Day 7: No Space Left On Device__ |  |  |
 | __Day 8:__ |  |  |
 | __Day 9:__ |  |  |
